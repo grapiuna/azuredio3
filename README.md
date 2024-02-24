@@ -11,6 +11,8 @@ Os arquivos testados estão na pasta inputs e os resultados estão abaixo.
 
 ##Resultado obtido:
 
-[https://github.com/grapiuna/azuredio3/blob/3f0f322bbabb748ee3d3afacf9ccae7914b136c0/output/01.jpg](Exemplo 1)
+[Exemplo 1]
+(https://github.com/grapiuna/azuredio3/blob/3f0f322bbabb748ee3d3afacf9ccae7914b136c0/output/01.jpg)
 
-[https://github.com/grapiuna/azuredio3/blob/3f0f322bbabb748ee3d3afacf9ccae7914b136c0/output/02.jpg](Exemplo 2)
+[Exemplo 2]
+(https://github.com/grapiuna/azuredio3/blob/3f0f322bbabb748ee3d3afacf9ccae7914b136c0/output/02.jpg)
